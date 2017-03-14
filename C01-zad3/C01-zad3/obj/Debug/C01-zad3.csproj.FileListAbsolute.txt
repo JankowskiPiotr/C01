@@ -1,0 +1,6 @@
+C:\Projects\C01-zad3\C01-zad3\bin\Debug\C01-zad3.exe.config
+C:\Projects\C01-zad3\C01-zad3\bin\Debug\C01-zad3.exe
+C:\Projects\C01-zad3\C01-zad3\bin\Debug\C01-zad3.pdb
+C:\Projects\C01-zad3\C01-zad3\obj\Debug\C01-zad3.csprojResolveAssemblyReference.cache
+C:\Projects\C01-zad3\C01-zad3\obj\Debug\C01-zad3.exe
+C:\Projects\C01-zad3\C01-zad3\obj\Debug\C01-zad3.pdb
